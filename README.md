@@ -1,4 +1,4 @@
-# Clash高级版节点优选脚本
+# 专注匿名化的Clash高级版节点优选脚本
 
 - [x] DNS主要用DoH和DoT  
 - [x] UDP转发  
