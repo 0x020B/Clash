@@ -1,7 +1,7 @@
 # Clash
 Clash高级版节点优选脚本
 
-- [x] 主要用DoH和DoT  
+- [x] DNS主要用DoH和DoT  
 - [x] UDP转发  
 - [x] 多跳代理  
 - [x] 身份伪装  
