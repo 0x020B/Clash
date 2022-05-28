@@ -17,7 +17,10 @@
 例外推荐更改系统时区
 
 ## 如何使用
+克隆本仓库及安装依赖
 ```shell
+git clone https://github.com/42c73139ae3521cf751b8e654435a94b/Clash-Script
+cd Clash-Script
 python -m pip install -r requirements.txt  
 ```
 订阅地址一行一条保存到 `urls.txt`
@@ -25,5 +28,6 @@ python -m pip install -r requirements.txt
 ```shell
 pyhon clash.py
 ```
+将生成的文件复制到Clash的配置文件夹
 
 略改一下可配合CI服务（如：Github Action）
