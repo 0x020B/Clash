@@ -5,7 +5,7 @@ Clash高级版节点优选脚本
 - [x] UDP转发  
 - [x] 多跳代理  
 - [x] 身份伪装  
-- [x] OPENNIC 服务  
+- [x] OpenNIC 服务  
 - [ ] Tor  
 - [ ] I2P  
 - [x] IMCP 存活验证  
