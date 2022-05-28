@@ -15,3 +15,15 @@
 - [x] UDP 存活验证  
 
 例外推荐更改系统时区
+
+## 如何使用
+```shell
+python -m pip install -r requirements.txt  
+```
+订阅地址一行一条保存到 `urls.txt`
+
+```shell
+pyhon clash.py
+```
+
+略改一下可配合CI服务（如：Github Action）
