@@ -7,12 +7,12 @@
 - [x] [OpenNIC](https://www.opennic.org/) 服务  
 - [x] [Tor](https://gitlab.torproject.org)  
 - [x] [I2P](https://github.com/i2p/i2p.i2p)  
-- [x] ICMP 存活验证  
-- [x] TCP 存活验证  
+- [x] ICMP 存活探测  
+- [x] TCP 存活探测  
 - [ ] BASE64 解码  
 - [ ] 节点链接转Clash配置  
 - [ ] TLS 可用验证  
-- [x] UDP 存活验证  
+- [x] UDP 存活探测  
 - [ ] 站点访问测试
 
 例外推荐更改系统时区
