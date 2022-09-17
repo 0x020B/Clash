@@ -22,8 +22,8 @@
 ## 如何使用
 克隆本仓库及安装依赖
 ```shell
-git clone https://github.com/42c73139ae3521cf751b8e654435a94b/Clash-Script
-cd Clash-Script
+git clone https://github.com/n0tr00teuorg/Clash
+cd Clash
 python -m pip install -r requirements.txt  
 ```
 订阅地址一行一条保存到 `urls.txt`
