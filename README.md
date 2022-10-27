@@ -7,6 +7,7 @@
 - [x] [OpenNIC](https://www.opennic.org/) 服务  
 - [x] [Tor](https://gitlab.torproject.org)  
 - [x] [I2P](https://github.com/i2p/i2p.i2p)  
+- [x] 十进制网络
 - [x] ICMP 存活探测  
 - [x] TCP 存活探测  
 - [ ] BASE64 解码  
